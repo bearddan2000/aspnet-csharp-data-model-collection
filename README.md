@@ -1,7 +1,7 @@
-# aspnet-csharp-data-model-collection
+# aspnet-web-csharp-data-model-collection
 
 ## Description
-An asp.net uses collection as a data model.
+An asp.net that uses collection as a data model.
 This is using c# as the code behind.
 All my asp.net repos use the MVC pattern
 
